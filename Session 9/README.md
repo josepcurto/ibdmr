@@ -6,6 +6,7 @@ The topic of this session is **Data Scientist's Toolkit: Data Visualization**. T
 
 ## References
 
+   - [Choosing the right chart for you](https://onlinehelp.tableau.com/current/pro/desktop/en-us/what_chart_example.htm)
    - [Data + Design](https://infoactive.co/data-design/titlepage01.html)
    - [Visualizing Data](http://www.visualisingdata.com/resources/)
    - [The Extreme Presentation™ Method](https://extremepresentation.com)
