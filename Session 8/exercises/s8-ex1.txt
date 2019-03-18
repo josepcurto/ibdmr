@@ -1,0 +1,55 @@
+Steps
+
+Purpose: We want to understand the type of customer we have.
+
+Using marks and groups
+
+1. Open telco_data.csv with Tableau Desktop.
+2. Transform age into dimension
+3. Create a bar plot that represent the average national calls per age. Make adjustments to the plot: title, axis, avg(Calls), entire view, etc. What do you observe?
+4. Modify the previous chart to add the average international calls. Make adjustments to the plot: title, axis, avg(Intern), entire view. Make adjustments to the plot: title, axis, avg(Calls), entire view, etc. What do you observe?
+5. Create a scatter plot comparing international vs. National calls per age. Make adjustments to the plot: title, axis, avg(Calls), entire view. Make adjustments to the plot: title, axis, avg(Calls), avg(Intern) entire view, Marks (color), etc. What do you observe?
+6. Improve the previous chart creating a group for Age (based on decades). Make adjustments to the plot: title, axis, avg(Calls), avg(Intern) entire view, Marks (color), etc. What do you observe?
+7. Create a new chart adding Avg(Text) as Size (Mark). What do you observe?
+8. Create a new chart changing Avg(Text) per Avg(Data). What do you observe?  
+9. Create a new chart using the previous one adding AVG(Text) as color instead Age(Group). What do we observe?
+
+Using Highlighters
+
+10. Add a highlighter. Go the Analysis Menu > Highligher > Age (Group)
+11. Duplicate the previous chart and add age as shape of the last chart. Change age (group) to detail.
+
+Using filters
+
+12. Add filters to all the measures and dimension. 
+13. Do we still need the highlighter?
+14. Do we still need the legends?
+15. Change the filter of the legend to the best option.
+
+Using bins
+
+16. Create a bin for age (with 10 elements per bin)
+17. Repeat step 6 but using Age (bins) instead Age (groups)
+18. Add number of records to detail. What do you observe?
+
+Using calculated fields
+
+19. Create a new calculated field that is Calls + Intern = Total Calls
+20. Create a new chart: Average Total Calls per Age (Group)
+21. Add Caption
+21. Add Summary
+
+Using sets
+
+22. Create a barplot representing avg(data) vs Age
+23. Select ages from 35 to 45 and create the 35-45 gro
+24. Drag 35-45 set to colors
+
+Extra: create a correlation chart
+
+25. Add data, calls, intern and text to columns
+26. Add data, calls, intern and text to rows
+
+Saving your work 
+
+27. Save your work as s8-ex1.twbx
