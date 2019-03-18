@@ -6,12 +6,12 @@ This repository contains all necessary inputs to run the course hands-on labs.
 
   - Additional articles and documents
   - Datasets
-  - Tableau files
+  - Tableau files (flows, data and workbooks)
   - Videos
 
 ## Software Installation
 
-  - **Data Wrangling**: Tableau Prep
+  - **Data Wrangling**: Tableau Prep Builder
   - **Data Visualization/Dashboards/Data Storytelling**: Tableau Desktop
   
 ### Steps
