@@ -1,0 +1,5 @@
+Steps
+
+1. Open s14-ex1.tde
+2. Create arrival delay vs departure delay analysis
+3. Create a story using only this analysis

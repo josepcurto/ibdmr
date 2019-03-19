@@ -1,0 +1,13 @@
+Generic recommendations
+
+0. Create the elements of the dahsboard
+1. Combine the elements
+2. Add title
+3. Modify format
+4. Add filters and interactivity 
+
+Exercises
+
+0. Open the data set and understand the content
+1. Create a dashboard for Airport Analysis
+2. Create a dashboard for Carrier Analysis 

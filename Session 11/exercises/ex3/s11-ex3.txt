@@ -1,0 +1,11 @@
+Generic recommendations
+
+0. Create the elements of the story
+1. Combine the elements
+2. Add title
+3. Modify format
+4. Add filters and interactivity 
+
+Exercises
+
+0. Let's convince my wife about which are the best carriers in US

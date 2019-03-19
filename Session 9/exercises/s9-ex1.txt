@@ -1,0 +1,20 @@
+Generic steps
+
+1. Choose the dimensions and metrics for the chart
+2. Adjust the dimensions and metrics for the purpose of the chart
+3. Choose the best visualization
+4. Adjust format (color, labels, la title, groups, bins, etc.)
+
+Exercises
+
+0. Open the data set and understand the content
+1. Compare the arrival delay and the departure delay per carrier
+2. Daily evolution of departure delay and the arrival delay
+3. Find the carrier that has more problems taxi in & out.
+4. Are the weather and departure delays related?
+5. What is happening per Airport?
+6. Compare the arrival delay and the departure delay per carrier and day of the week
+7. How can we present detail details?
+8. Search for the worst and best airports
+9. Search for the worst and best carriers
+ 

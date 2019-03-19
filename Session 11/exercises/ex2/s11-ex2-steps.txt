@@ -1,0 +1,6 @@
+Steps
+
+1. Open s14-ex1.tde
+2. Create total delay as a new calculated field
+3. Solve the data quality issue
+4. Can you create a story to explain the worst carrier?
