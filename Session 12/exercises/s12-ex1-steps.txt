@@ -1,0 +1,5 @@
+Steps
+
+1. Open s12-ex1.tde
+2. Create total delay
+3. Can you create a story to explain the worst carrier using total delay
