@@ -1,0 +1,7 @@
+Instructions
+
+1. Read PDF
+2. Try to reproduce the example
+3. If you get stuck in any of the steps you can open the twix files (1, 2 or 3)
+
+Note: if you find any mistakes or you want to propose any additional content, contact jcurto@faculty.ie.edu
